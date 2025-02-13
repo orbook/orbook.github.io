@@ -2,62 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>https://orbook.github.io//Infrastructure/Open_Platforms/index.html</loc>
-    <lastmod>2025-01-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://orbook.github.io//Knowledge/Open_Publications/index.html</loc>
-    <lastmod>2025-01-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://orbook.github.io//Methods/Open_peer_review/index.html</loc>
-    <lastmod>2025-01-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://orbook.github.io//Methods/Open_Protocols/index.html</loc>
-    <lastmod>2025-01-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://orbook.github.io//Infrastructure/Repositories_and_Persistent_Research_Identifiers/index.html</loc>
-    <lastmod>2025-01-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://orbook.github.io//menu3/index.html</loc>
-    <lastmod>2025-01-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://orbook.github.io//index.html</loc>
-    <lastmod>2025-02-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://orbook.github.io//Communities/Research_Diversity/index.html</loc>
-    <lastmod>2025-01-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://orbook.github.io//Knowledge/Open_Software/index.html</loc>
-    <lastmod>2025-01-14</lastmod>
+    <loc>https://orbook.github.io//Communities/Open_Communities/index.html</loc>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://orbook.github.io//Methods/Participatory_Research/index.html</loc>
-    <lastmod>2025-01-14</lastmod>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://orbook.github.io//menu1/index.html</loc>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://orbook.github.io//Infrastructure/Repositories_and_Persistent_Research_Identifiers/index.html</loc>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://orbook.github.io//Knowledge/Open_Data/index.html</loc>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://orbook.github.io//Methods/Citizen_Science_and_Crowdsourcing/index.html</loc>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://orbook.github.io//Knowledge/Open_Educational_Resources/index.html</loc>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://orbook.github.io//Knowledge/Open_Code/index.html</loc>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://orbook.github.io//Knowledge/Open_Publications/index.html</loc>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://orbook.github.io//Methods/Open_peer_review/index.html</loc>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://orbook.github.io//Methods/Open_Protocols/index.html</loc>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
@@ -68,56 +74,50 @@
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://orbook.github.io//Infrastructure/Interoperability/index.html</loc>
-    <lastmod>2025-02-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://orbook.github.io//Infrastructure/Open_Licensing/index.html</loc>
-    <lastmod>2025-01-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://orbook.github.io//Methods/Citizen_Science_and_Crowdsourcing/index.html</loc>
-    <lastmod>2025-01-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://orbook.github.io//Knowledge/Open_Data/index.html</loc>
-    <lastmod>2025-01-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://orbook.github.io//Knowledge/Open_Educational_Resources/index.html</loc>
-    <lastmod>2025-01-14</lastmod>
+    <loc>https://orbook.github.io//Infrastructure/Open_Platforms/index.html</loc>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://orbook.github.io//menu4/index.html</loc>
-    <lastmod>2025-01-14</lastmod>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://orbook.github.io//Communities/Open_Communities/index.html</loc>
-    <lastmod>2025-01-14</lastmod>
+    <loc>https://orbook.github.io//Knowledge/Open_Software/index.html</loc>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://orbook.github.io//menu1/index.html</loc>
-    <lastmod>2025-01-14</lastmod>
+    <loc>https://orbook.github.io//index.html</loc>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://orbook.github.io//Knowledge/Open_Code/index.html</loc>
-    <lastmod>2025-01-14</lastmod>
+    <loc>https://orbook.github.io//menu3/index.html</loc>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://orbook.github.io//Infrastructure/Open_Licensing/index.html</loc>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://orbook.github.io//Communities/Research_Diversity/index.html</loc>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://orbook.github.io//Infrastructure/Interoperability/index.html</loc>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>

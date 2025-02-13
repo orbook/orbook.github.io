@@ -46,25 +46,17 @@ This process can end up opening up possible futures that the researcher wouldn�
 
 [//]: ##**Further Reading & Useful Links**
 
-Stilgoe, J., Owen, R., & Macnaghten, P. (2013). Developing a framework for responsible innovation. In Research Policy (Vol. 42, Issue 9, pp. 1568–1580). Elsevier BV. https://doi.org/10.1016/j.respol.2013.05.008 
+## Links
 
-Nielsen, M. (2020). Reinventing discovery: the new era of networked science. Princeton University Press.
+- [UK Research and Innovation: Framework for responsible research and innovation](https://www.ukri.org/who-we-are/epsrc/our-policies-and-standards/framework-for-responsible-innovation/)
+- [Oxford Brookes University Research Support: How to engage](https://www.brookes.ac.uk/sites/research-support/pen/how-to-engage)
 
-Featherstone, L. (2018). *Divining desire: focus groups and the culture of consultation*. OR books.
+## References
 
-Benkler, Y. (2002). Coase's penguin, or, Linux and “The nature of the Firm". *Yale Law Journal*, 369-446.
+Stilgoe, J., Owen, R., & Macnaghten, P. (2013). Developing a framework for responsible innovation. In Research Policy (Vol. 42, Issue 9, pp. 1568–1580). Elsevier BV. [https://doi.org/10.1016/j.respol.2013.05.008](https://doi.org/10.1016/j.respol.2013.05.008)
 
-Gowers, T., & Nielsen, M. (2009). Massively collaborative mathematics. In Nature (Vol. 461, Issue 7266, pp. 879–881). Springer Science and Business Media LLC. [https://doi.org/10.1038/461879a](https://doi.org/10.1038/461879a)
+Lang, I., King, A., Jenkins, G., Boddy, K., Khan, Z., & Liabo, K. (2022). How common is patient and public involvement (PPI)? Cross-sectional analysis of frequency of PPI reporting in health research papers and associations with methods, funding sources and other factors. In BMJ Open (Vol. 12, Issue 5, p. e063356). BMJ. [https://doi.org/10.1136/bmjopen-2022-063356](https://doi.org/10.1136/bmjopen-2022-063356)
 
-Lang, I., King, A., Jenkins, G., Boddy, K., Khan, Z., & Liabo, K. (2022). How common is patient and public involvement (PPI)? Cross-sectional analysis of frequency of PPI reporting in health research papers and associations with methods, funding sources and other factors. In BMJ Open (Vol. 12, Issue 5, p. e063356). BMJ. https://doi.org/10.1136/bmjopen-2022-063356
+Ten Holter, C. (2022). Participatory design: lessons and directions for responsible research and innovation. In Journal of Responsible Innovation (Vol. 9, Issue 2, pp. 275–290). Informa UK Limited. [https://doi.org/10.1080/23299460.2022.2041801](https://doi.org/10.1080/23299460.2022.2041801)
 
-Ten Holter, C. (2022). Participatory design: lessons and directions for responsible research and innovation. In Journal of Responsible Innovation (Vol. 9, Issue 2, pp. 275–290). Informa UK Limited. https://doi.org/10.1080/23299460.2022.2041801 
-
-[https://www.brookes.ac.uk/getmedia/06ad3597-b6c7-4be5-9b3f-18d71fa343d1/older-people-and-participatory-research-2022.pdf](https://www.brookes.ac.uk/getmedia/06ad3597-b6c7-4be5-9b3f-18d71fa343d1/older-people-and-participatory-research-2022.pdf)
-
-[https://www.ukri.org/who-we-are/epsrc/our-policies-and-standards/framework-for-responsible-innovation/](https://www.ukri.org/who-we-are/epsrc/our-policies-and-standards/framework-for-responsible-innovation/)
-
-[https://www.youtube.com/watch?v=7r9IYl4CtKI](https://www.youtube.com/watch?v=7r9IYl4CtKI)
-
-[https://www.brookes.ac.uk/sites/research-support/pen/training-and-support](https://www.brookes.ac.uk/sites/research-support/pen/training-and-support)
-
+Sarah Quinton et al. (2022). Older People and Participatory Research: Creativity and Digital Technologies as Vehicles for Enhancing Wellbeing. [https://www.brookes.ac.uk/getmedia/06ad3597-b6c7-4be5-9b3f-18d71fa343d1/older-people-and-participatory-research-2022.pdf](https://www.brookes.ac.uk/getmedia/06ad3597-b6c7-4be5-9b3f-18d71fa343d1/older-people-and-participatory-research-2022.pdf)

@@ -78,8 +78,26 @@ Some people refer to a sixth “P”, suggesting that the outcome of the group e
 
 [//]: ##**Links** **& References**
 
-David A. Whetton and Kim S. Cameron. Developing management skills: SUPPLEMENT C CONDUCTING MEETINGS (pp. 652-659) 8th Ed.
+## Links to examples from the video
+[University of Oxford, MPLS Division: Science Together: Oxford Researchers and Communities](https://www.mpls.ox.ac.uk/public-engagement/science-together-oxford-researchers-and-communities)
+[UK Reproducibility Network: UKRN Community of Practice for Open Research Trainers](https://www.ukrn.org/ukrn-community-of-practice/)
+[CLARISSA: People-driven Solutions: An Introduction to Facilitating Deep Participation for Systemic Change Through Systemic Action Research Programming](https://clarissa.global/resource/people-driven-solutions-an-introduction-to-facilitating-deep-participation-for-systemic-change-through-systemic-action-research-programming/)
 
-2012 Royal Society report on “Science as an Open Enterprise” remarks:
+## Additional links
 
-Research Councils UK white paper “What’s in it for me? The benefits of public engagement for researchers”  
+[UKRI: What's in it for me? The benefits of public engagement for researchers.](https://www.ukri.org/publications/the-benefits-of-public-engagement-for-researchers/)
+[National Coordinating Centre for Public Engagement: How to evaluate public engagement projects and programmes](https://www.publicengagement.ac.uk/resources/guide/how-evaluate-public-engagement-projects-and-programmes)
+
+## References
+
+Cameron Neylon (2011). Re-use as Impact: How re-assessing what we mean by “impact” can support improving the return on public investment, develop open research practice, and widen engagement. Presented at altmetrics11. [https://web.archive.org/web/20210412193143/http://altmetrics.org/workshop2011/neylon-v0/](https://web.archive.org/web/20210412193143/http://altmetrics.org/workshop2011/neylon-v0/)
+
+Etienne C. Wenger and William M. Snyder. (2000) Communities of Practice: The Organizational Frontier. [https://hbr.org/2000/01/communities-of-practice-the-organizational-frontier](https://hbr.org/2000/01/communities-of-practice-the-organizational-frontier) (embedded infographic: “Snapshot Comparison”)
+
+The Royal Society (2012). Science as an open enterprise. [https://royalsociety.org/-/media/policy/projects/sape/2012-06-20-saoe.pdf](https://royalsociety.org/-/media/policy/projects/sape/2012-06-20-saoe.pdf)
+
+Cole, N. L., Kormann, E., Klebel, T., Apartis, S., & Ross-Hellauer, T. (2024). The societal impact of Open Science: a scoping review. In Royal Society Open Science (Vol. 11, Issue 6). The Royal Society. [https://doi.org/10.1098/rsos.240286](https://doi.org/10.1098/rsos.240286)
+
+A. T. Ariyaratne. Organization of rural communities for group effort and self-help. In Food Crisis Workshop, Los Baños, Laguna (Philippines), 7-9 Feb 1977, pages 23–24, 1977. Digitized copy archived at [https://web.archive.org/web/20150308150744/http://www.sarvodaya.org/about/philosophy/collected-works-vol-1/rural-self-help](https://web.archive.org/web/20150308150744/http://www.sarvodaya.org/about/philosophy/collected-works-vol-1/rural-self-help)
+
+David A. Whetton and Kim S. Cameron. (2011). “Conducting Meetings” (Supplement C) in: Developing management skills. (pp. 652-659). Pearson Education. 8th Ed.

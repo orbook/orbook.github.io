@@ -40,18 +40,15 @@ One place you can find examples is on the “Peer Community In” platform ([htt
 
 [//]: ##**Links**
 
-[https://web.archive.org/web/20210730224723/https://how-to-open.science/share/open-protocols/](https://web.archive.org/web/20210730224723/https://how-to-open.science/share/open-protocols/)
+## Link
+- [Questionable Research Practices: Definition, Detection, and Recommendations for Better Practices](https://replicationindex.com/2015/01/24/qrps/)
 
-[https://rr.peercommunityin.org/articles/rec?id=750](https://rr.peercommunityin.org/articles/rec?id=750) 
+## References
 
-[https://rr.peercommunityin.org/about/pci\_rr\_friendly\_journals](https://rr.peercommunityin.org/about/pci_rr_friendly_journals) 
+Serra-Garcia, M., & Gneezy, U. (2021). Nonreplicable publications are cited more than replicable ones. In Science Advances (Vol. 7, Issue 21). American Association for the Advancement of Science (AAAS). [https://doi.org/10.1126/sciadv.abd1705](https://doi.org/10.1126/sciadv.abd1705)
 
-Serra-Garcia, M., & Gneezy, U. (2021). Nonreplicable publications are cited more than replicable ones. In Science Advances (Vol. 7, Issue 21). American Association for the Advancement of Science (AAAS). [https://doi.org/10.1126/sciadv.abd1705](https://doi.org/10.1126/sciadv.abd1705) 
+Scheel, A. M., Schijen, M. R. M. J., & Lakens, D. (2021). An Excess of Positive Results: Comparing the Standard Psychology Literature With Registered Reports. In Advances in Methods and Practices in Psychological Science (Vol. 4, Issue 2, p. 251524592110074). SAGE Publications. [https://doi.org/10.1177/25152459211007467](https://doi.org/10.1177/25152459211007467)
 
-Scheel, A. M., Schijen, M. R. M. J., & Lakens, D. (2021). An Excess of Positive Results: Comparing the Standard Psychology Literature With Registered Reports. In Advances in Methods and Practices in Psychological Science (Vol. 4, Issue 2, p. 251524592110074). SAGE Publications. [https://doi.org/10.1177/25152459211007467](https://doi.org/10.1177/25152459211007467) 
+Moreau, D., & Wiebels, K. (2023). Ten simple rules for designing and conducting undergraduate replication projects. In R. Schwartz (Ed.), PLOS Computational Biology (Vol. 19, Issue 3, p. e1010957). Public Library of Science (PLoS). [https://doi.org/10.1371/journal.pcbi.1010957](https://doi.org/10.1371/journal.pcbi.1010957)
 
-Moreau, D., & Wiebels, K. (2023). Ten simple rules for designing and conducting undergraduate replication projects. In R. Schwartz (Ed.), PLOS Computational Biology (Vol. 19, Issue 3, p. e1010957). Public Library of Science (PLoS). [https://doi.org/10.1371/journal.pcbi.1010957](https://doi.org/10.1371/journal.pcbi.1010957)  
-
-Henderson, E. L., & Chambers, C. D. (2022). Ten simple rules for writing a Registered Report. In PLOS Computational Biology (Vol. 18, Issue 10, p. e1010571). Public Library of Science (PLoS). [https://doi.org/10.1371/journal.pcbi.1010571](https://doi.org/10.1371/journal.pcbi.1010571) 
-
-[https://replicationindex.com/tag/qrp/](https://replicationindex.com/tag/qrp/)
+Henderson, E. L., & Chambers, C. D. (2022). Ten simple rules for writing a Registered Report. In PLOS Computational Biology (Vol. 18, Issue 10, p. e1010571). Public Library of Science (PLoS). [https://doi.org/10.1371/journal.pcbi.1010571](https://doi.org/10.1371/journal.pcbi.1010571)

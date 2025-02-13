@@ -12,7 +12,7 @@ The term **Research Diversity** itself spans several different meanings. What th
 
 ### **Why does research diversity matter?**
 
-Research diversity can be linked to themes such as *academic plurality* — a widely held value within academic communities that embraces the harmonious coexistence of different interests, convictions and lifestyles.  These values might be exercised (or even put to the test) within multi- or interdisciplinary research.  This might also call to mind the varied activities and roles that are involved in creating a given piece of research in the first place. All of these considerations relate to another question: **who is involved in research?**  As we’ll see, the diversity of research topics and output formats is linked to the diversity of researchers themselves. 
+Research diversity can be linked to themes such as *academic plurality* — a widely held value within academic communities that embraces the harmonious coexistence of different interests, convictions and lifestyles.  These values might be exercised (or even put to the test) within multi- or interdisciplinary research.  This might also call to mind the varied activities and roles that are involved in creating a given piece of research in the first place. All of these considerations relate to another question: **who is involved in research?**  As we’ll see, the diversity of research topics and output formats is linked to the diversity of researchers themselves.
 
 [//]: ##*Flow*
 
@@ -32,7 +32,7 @@ In other words, all else equal, your chances of getting a grant may be up to one
 
 The inequalities that characterise research trajectories are reflected in the classic sociological concept of cumulative advantage, otherwise known as the Matthew effect (based on the principle “For to every one who has will more be given”, or in short, “success breeds success”).  Open research doesn’t make this issue go away.  As Ross-Hellauer et al. write in *Royal Society Open Science*,
 
-“\[M\]aking processes open will not *per se* drive wide reuse or participation unless also accompanied by the capacity (in terms of knowledge, skills, financial resources, technological readiness and motivation) to do so. These capacities vary considerably across regions, institutions and demographics. Those advantaged by such factors will remain potentially privileged, putting Open Science's agenda of inclusivity at risk of propagating conditions of ‘cumulative advantage’.
+“[M]aking processes open will not *per se* drive wide reuse or participation unless also accompanied by the capacity (in terms of knowledge, skills, financial resources, technological readiness and motivation) to do so. These capacities vary considerably across regions, institutions and demographics. Those advantaged by such factors will remain potentially privileged, putting Open Science's agenda of inclusivity at risk of propagating conditions of ‘cumulative advantage’.”
 
 A more explicitly inclusive approach to building an open research culture would be to foster discussions around what works and what doesn’t work, who is included, and who is excluded by default. Let’s turn to some of these points now.
 
@@ -40,7 +40,7 @@ A more explicitly inclusive approach to building an open research culture would 
 
 ### **Open Access and research diversity implications**
 
-In terms of getting ideas out there, [**open-access papers draw more citations from a broader readership**](https://www.science.org/content/article/open-access-papers-draw-more-citations-broader-readership): this hints at key benefits including a diverse readership and diverse possibilities for reuse.  However, it’s [currently the case](https://direct.mit.edu/qss/article/1/4/1429/96127/Who-s-writing-open-access-OA-articles) that OA articles with Article Processing Charges (or APCs) are more likely to be written by people possessed of the male gender, employment at a prestigious institution, association with a STEM discipline, more research funding, and a more advanced career stage.  It’s the Matthew effect all over again. It should come as no surprise that the Higher Education Policy Institute concludes that Open Access is [not enough](https://www.hepi.ac.uk/2022/12/15/why-open-access-is-not-enough-spreading-the-benefits-of-research/) to foster a vibrant open research ecosystem — they touch on the necessity of developing capabilities, connections, coordination, collaboration, and co-production strategies: themes that have also appeared in this video series. 
+In terms of getting ideas out there, [**open-access papers draw more citations from a broader readership**](https://www.science.org/content/article/open-access-papers-draw-more-citations-broader-readership): this hints at key benefits including a diverse readership and diverse possibilities for reuse.  However, it’s [currently the case](https://direct.mit.edu/qss/article/1/4/1429/96127/Who-s-writing-open-access-OA-articles) that OA articles with Article Processing Charges (or APCs) are more likely to be written by people possessed of the male gender, employment at a prestigious institution, association with a STEM discipline, more research funding, and a more advanced career stage.  It’s the Matthew effect all over again. It should come as no surprise that the Higher Education Policy Institute concludes that Open Access is [not enough](https://www.hepi.ac.uk/2022/12/15/why-open-access-is-not-enough-spreading-the-benefits-of-research/) to foster a vibrant open research ecosystem — they touch on the necessity of developing capabilities, connections, coordination, collaboration, and co-production strategies: themes that have also appeared in this video series.
 
 [//]: ##*Keep it practical*
 
@@ -50,22 +50,25 @@ Building more diverse teams can start with something as simple as working on pro
 
 [//]: ##*References to others work*
 
-Matthew Gandy.  (2024) Losing control: REF 2029 and the downgrading of academic outputs  
-[https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/tran.12713](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/tran.12713) 
+## Links
 
-Hui, W. (2020). The Humanities in China: History and Challenges. In History of Humanities (Vol. 5, Issue 2, pp. 309–331). University of Chicago Press. [https://doi.org/10.1086/710276](https://doi.org/10.1086/710276) 
+- [CRediT Project: Contributor Role Taxonomy (CRediT)](https://credit.niso.org/)
+- [UKRI equalities monitoring 2021 to 2022](https://www.ukri.org/publications/ukri-equalities-monitoring/ukri-equalities-monitoring-2021-to-2022/)
+- [Oxford Brookes University: Equality, Diversity and Inclusion Strategy](https://www.brookes.ac.uk/staff/people/related-strategies/equality-diversity-and-inclusion-strategy)
 
- *Ecological Thinking: The Politics of Epistemic Location* (Oxford University Press, 2006\) 
+## References
 
-David Rock and Heidi Grant (2016). Why Diverse Teams Are Smarter. Harvard Business Review. [https://hbr.org/2016/11/why-diverse-teams-are-smarter](https://hbr.org/2016/11/why-diverse-teams-are-smarter) 
+D. Kozlowski, V. Larivière, C.R. Sugimoto, & T. Monroe-White. (2022). Intersectional inequalities in science, Proc. Natl. Acad. Sci. U.S.A. 119 (2) e2113067119, [https://doi.org/10.1073/pnas.2113067119](https://doi.org/10.1073/pnas.2113067119)
 
-Robin J. Ely and David A. Thomas (2020). Getting Serious About Diversity: Enough Already with the Business Case. Harvard Business Review.   
+Robin J. Ely and David A. Thomas (2020). Getting Serious About Diversity: Enough Already with the Business Case. Harvard Business Review.
 [https://hbr.org/2020/11/getting-serious-about-diversity-enough-already-with-the-business-case](https://hbr.org/2020/11/getting-serious-about-diversity-enough-already-with-the-business-case)
 
-Bas Hofstra, Vivek V. Kulkarni, Sebastian Munoz-Najar Galvez, Bryan He, Dan Jurafsky, and Daniel A. McFarland, “[The Diversity-Innovation Paradox in Science](https://www.pnas.org/content/117/17/9284),” *Proceedings of the National Academy of Sciences*, vol. 117, no. 17, 2020, pp. 9284-9291.
+Bas Hofstra, Vivek V. Kulkarni, Sebastian Munoz-Najar Galvez, Bryan He, Dan Jurafsky, and Daniel A. McFarland, “The Diversity-Innovation Paradox in Science,” Proceedings of the National Academy of Sciences, vol. 117, no. 17, 2020, pp. 9284-9291.
 
-Ginther, D. K., Basner, J., Jensen, U., Schnell, J., Kington, R., & Schaffer, W. T. (2018). Publications as predictors of racial and ethnic differences in NIH research awards. In L. G. Koniaris (Ed.), PLOS ONE (Vol. 13, Issue 11, p. e0205929). Public Library of Science (PLoS). [https://doi.org/10.1371/journal.pone.0205929](https://doi.org/10.1371/journal.pone.0205929) 
+Y. Yang, T.Y. Tian, T.K. Woodruff, B.F. Jones, & B. Uzzi. (2022). Gender-diverse teams produce more novel and higher-impact scientific ideas, Proc. Natl. Acad. Sci. U.S.A. 119 (36) e2200841119, [https://doi.org/10.1073/pnas.2200841119](https://doi.org/10.1073/pnas.2200841119)
 
-Ben Green (ed.). “Technology Ethics in Action: Critical and Interdisciplinary Perspectives,” Special Issue of the Journal of Social Computing. 2021\.
+Ginther, D. K., Basner, J., Jensen, U., Schnell, J., Kington, R., & Schaffer, W. T. (2018). Publications as predictors of racial and ethnic differences in NIH research awards. In L. G. Koniaris (Ed.), PLOS ONE (Vol. 13, Issue 11, p. e0205929). Public Library of Science (PLoS). [https://doi.org/10.1371/journal.pone.0205929](https://doi.org/10.1371/journal.pone.0205929)
 
-Marylin Vantard, Claire Galland, Martina Knoop; Interdisciplinary research: Motivations and challenges for researcher careers. *Quantitative Science Studies* 2023; 4 (3): 711–727. doi: [https://doi.org/10.1162/qss\_a\_00265](https://doi.org/10.1162/qss_a_00265)
+Huang, C.-K., Neylon, C., Montgomery, L., Hosking, R., Diprose, J. P., Handcock, R. N., & Wilson, K. (2024). Open access research outputs receive more diverse citations. In Scientometrics (Vol. 129, Issue 2, pp. 825–845). Springer Science and Business Media LLC. [https://doi.org/10.1007/s11192-023-04894-0](https://doi.org/10.1007/s11192-023-04894-0)
+
+Anthony J. Olejniczak, Molly J. Wilson. (2020). Who’s writing open access (OA) articles? Characteristics of OA authors at Ph.D.-granting institutions in the United States. Quantitative Science Studies. 1 (4): 1429–1450. doi: [https://doi.org/10.1162/qss_a_00091](https://doi.org/10.1162/qss_a_00091)

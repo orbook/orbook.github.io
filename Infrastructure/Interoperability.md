@@ -1,4 +1,4 @@
-# Interoperability!!
+# Interoperability
 
 [//]: ##**Outline**
 
@@ -13,7 +13,7 @@ Many organisations are independent in their day-to-day operations, but also able
 
 ### **How does interoperability relate to open research?**
 
-In an open research context, “interoperability” means that the way things work in one research project can be taken up in another context without too much friction.  As such, the concept of interoperability encompasses both “how you can build on pre-existing work”, and “how others can build on yours.” For these things to be possible, one set of data and methods needs to be able to interoperate with another. Often, this happens without direct interaction between the two different research teams. While there may be a technical dimension to this (for example, related to sharing or exchanging data in suitable formats), even more fundamentally ‘interoperability’ is related to what Baroness Onora O’Neill has referred to as *intelligent openness*: “ensur\[ing\] that others can not only locate but also understand and assess material.”
+In an open research context, “interoperability” means that the way things work in one research project can be taken up in another context without too much friction.  As such, the concept of interoperability encompasses both “how you can build on pre-existing work”, and “how others can build on yours.” For these things to be possible, one set of data and methods needs to be able to interoperate with another. Often, this happens without direct interaction between the two different research teams. While there may be a technical dimension to this (for example, related to sharing or exchanging data in suitable formats), even more fundamentally ‘interoperability’ is related to what Baroness Onora O’Neill has referred to as *intelligent openness*: “ensur[ing] that others can not only locate but also understand and assess material.”
 
 [//]: ##**Flow**
 
@@ -47,12 +47,15 @@ Whether you are working across geographical and economic regions or across neigh
 
 [//]: ##**Further Reading and Links:**
 
-Sennett, R., & Sendra, P. (2020). *Designing disorder: Experiments and disruptions in the city*. Verso Books.
+## Link
 
-Merton, R. (1936). The Unanticipated Consequences of Purposive Social Action, 1AM. *SOC. REV*, *894*, 903-04.
+- [https://www.brookes.ac.uk/research/networks](https://www.brookes.ac.uk/research/networks)
 
-* [https://www.brookes.ac.uk/research/networks](https://www.brookes.ac.uk/research/networks)  
-* [https://www.pnas.org/doi/10.1073/pnas.1424329112](https://www.pnas.org/doi/10.1073/pnas.1424329112)  
-* [https://www.scientificamerican.com/article/graphic-science-some-of-the-best-science-can-slumber-for-years/](https://www.scientificamerican.com/article/graphic-science-some-of-the-best-science-can-slumber-for-years/)  
-* [https://www.jstor.org/stable/2084615](https://www.jstor.org/stable/2084615)  
-* https://gcs.civilservice.gov.uk/publications/in-case-a-behavioural-approach-to-anticipating-unintended-consequences/
+## References
+
+Sennett, R., & Sendra, P. (2020). Designing disorder: Experiments and disruptions in the city. Verso Books.
+
+Merton, R. (1936). The Unanticipated Consequences of Purposive Social Action, 1AM. SOC. REV, 894, 903-04. [https://www.jstor.org/stable/2084615](https://www.jstor.org/stable/2084615)  
+
+Abigail Emery, Dr Laura de Molière, Dr Paulina Lang, Dr Moira Nicolson, and Eleanor Prince. (2021) IN CASE: A behavioural approach to anticipating unintended consequences. Government Communication Service. [https://gcs.civilservice.gov.uk/publications/in-case-a-behavioural-approach-to-anticipating-unintended-consequences/](https://gcs.civilservice.gov.uk/publications/in-case-a-behavioural-approach-to-anticipating-unintended-consequences/)
+

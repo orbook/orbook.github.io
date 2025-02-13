@@ -50,15 +50,17 @@ As indicated above, there is no one-size-fits-all licence.  Even though CC By is
 
 [//]: ##**Further Reading & Useful Links**
 
-Suber, Peter, *Open Access* (Cambridge, Mass., MIT Press, 2012\)
+## Links
 
-Montgomery, Lucy, Hartley, John, et al., *Open Knowledge Institutions: Reinventing Universities* (Cambridge, Mass. MIT Press, 2021\)
+- [Creative Commons License chooser](https://chooser-beta.creativecommons.org/)
+- [Intellectual Property Office: Ownership of copyright works](https://www.gov.uk/guidance/ownership-of-copyright-works#works-created-for-an-employer)
+- [Oxford Brookes University: Intellectual Property Policy](https://drive.google.com/file/d/1M6BEvVhaMxGqktrQNOGsTDhztTcioFwb/view)
 
-[https://punctumbooks.pubpub.org/pub/creative-commons-by-nc-licensing-open-access/release/9](https://punctumbooks.pubpub.org/pub/creative-commons-by-nc-licensing-open-access/release/9) 
+## References
 
-[https://www.gov.uk/guidance/ownership-of-copyright-works\#works-created-for-an-employer](https://www.gov.uk/guidance/ownership-of-copyright-works#works-created-for-an-employer) 
+Suber, Peter (2012) Open Access (Cambridge, Mass.: MIT Press, )
 
-[https://www.brookes.ac.uk/library/resources-and-services/for-researchers/open-access](https://www.brookes.ac.uk/library/resources-and-services/for-researchers/open-access) 
+Montgomery, Lucy, Hartley, John, et al. (2021). Open Knowledge Institutions: Reinventing Universities (Cambridge, Mass: MIT Press)
 
-[https://drive.google.com/file/d/1M6BEvVhaMxGqktrQNOGsTDhztTcioFwb/view](https://drive.google.com/file/d/1M6BEvVhaMxGqktrQNOGsTDhztTcioFwb/view) (IP Policy)
+van Gerven Oei, V. W. J. (2020). Why CC BY-NC Licenses Are Still Necessary in Open Access Book Publishing. Punctum Books. Retrieved from [https://punctumbooks.pubpub.org/pub/creative-commons-by-nc-licensing-open-access](https://punctumbooks.pubpub.org/pub/creative-commons-by-nc-licensing-open-access)
 

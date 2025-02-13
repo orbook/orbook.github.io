@@ -10,10 +10,10 @@ Hello, and welcome to this short talk about Open Peer Review. We will begin by d
 
 Operationaly, *open peer review* covers a range of models. The name implies that scholarly peer review processes are not open by default. Let’s begin by reviewing the typical state of affairs. Fundamental to the traditional peer review model is the fact that:
 
-* the identities of at least one of the parties in the review process are not *disclosed*  
+* the identities of at least one of the parties in the review process are not *disclosed*
 * the reviews themselves are not publicly available
 
-Accordingly, open peer review reverses one or both of these conditions, and opens up the peer review process through dis-closure.  Along the way, additional other aspects of the review process may also be made open to scrutiny.  
+Accordingly, open peer review reverses one or both of these conditions, and opens up the peer review process through dis-closure.  Along the way, additional other aspects of the review process may also be made open to scrutiny.
 
 [//]: **Flow**
 
@@ -33,7 +33,7 @@ Arguments have also been put forward that say that open peer review isn’t alwa
 
 ### **Related practices**
 
-Open peer review isn’t universally adopted, but it can be seen within a context of related scholarly practices, which open up other aspects of scholarly communication. Some scholarly communities publish “commentaries” or “critiques” alongside a “target” or “plenary” article. The journal may publish the authors’ responses to those commentaries, effectively transforming a scholarly journal into an open discussion for a particular purpose. (Journals vary as to whether commentary articles are themselves peer reviewed.) Some review communities put a system of rebuttals in place in the review stage: this allows people who receive reviews to respond to the reviewer, although the reviewer remains anonymous.   
+Open peer review isn’t universally adopted, but it can be seen within a context of related scholarly practices, which open up other aspects of scholarly communication. Some scholarly communities publish “commentaries” or “critiques” alongside a “target” or “plenary” article. The journal may publish the authors’ responses to those commentaries, effectively transforming a scholarly journal into an open discussion for a particular purpose. (Journals vary as to whether commentary articles are themselves peer reviewed.) Some review communities put a system of rebuttals in place in the review stage: this allows people who receive reviews to respond to the reviewer, although the reviewer remains anonymous.
 
 [//]: ##**References to others’ work**
 
@@ -51,10 +51,14 @@ A practical next step would be to find a journal (or another venue) in your rese
 
 [//]: ##**Links and references**
 
-Review of Corneli's Method for using Octopus to evaluate Open Research training \[Example of an open peer review on the Octopus platform\] [https://www.octopus.ac/publications/xtsb-xs05/versions/latest](https://www.octopus.ac/publications/xtsb-xs05/versions/latest) 
+## Links
+
+- [https://www.octopus.ac/faq#pub_type_octopus](Octopus FAQ: Which publication type should I use?)
+- [Example of a peer review on the Octopus Platform](https://www.octopus.ac/publications/xtsb-xs05/versions/latest)
+- [Introducing the DARIAH Overlay Journal: an alternative and transparent publishing model](https://www.dariah.eu/2024/02/29/introducing-the-dariah-overlay-journal-an-alternative-and-transparent-publishing-model/)
+
+## References
 
 Pros and cons of open peer review. (1999). In Nature Neuroscience (Vol. 2, Issue 3, pp. 197–198). Springer Science and Business Media LLC. https://doi.org/10.1038/6295 
 
-Smith, R. (1999). Opening up BMJ peer review. In BMJ (Vol. 318, Issue 7175, pp. 4–5). BMJ. [https://doi.org/10.1136/bmj.318.7175.4](https://doi.org/10.1136/bmj.318.7175.4)  
-
-[https://www.ukri.org/publications/review-of-peer-review/review-of-peer-review-june-2023/](https://www.ukri.org/publications/review-of-peer-review/review-of-peer-review-june-2023/) [http://www.nytimes.com/2010/08/24/arts/24peer.html](http://www.nytimes.com/2010/08/24/arts/24peer.html?scp=1&sq=scholars%20web&st=cse) [https://www.dariah.eu/2024/02/29/introducing-the-dariah-overlay-journal-an-alternative-and-transparent-publishing-model/](https://www.dariah.eu/2024/02/29/introducing-the-dariah-overlay-journal-an-alternative-and-transparent-publishing-model/)
+Smith, R. (1999). Opening up BMJ peer review. In BMJ (Vol. 318, Issue 7175, pp. 4–5). BMJ. https://doi.org/10.1136/bmj.318.7175.4  

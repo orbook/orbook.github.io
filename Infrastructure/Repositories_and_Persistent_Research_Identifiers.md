@@ -1,4 +1,4 @@
-# **Repositories and Persistent Research Identifiers**
+# Repositories and Persistent Research Identifiers
 
 [//]: ##**Outline**
 
@@ -52,9 +52,14 @@ As mentioned above, the website [doi.org](https://doi.org) is useful for looking
 
 [//]: ##**Links**
 
-* [https://www.brookes.ac.uk/library/resources-and-services/forresearchers/publishing-research-data\#metadata](https://www.brookes.ac.uk/library/resources-and-services/forresearchers/publishing-research-data#metadata)  
-* [https://www.sciencedirect.com/science/article/pii/S0164121221002144](https://www.sciencedirect.com/science/article/pii/S0164121221002144)  
-* [https://en.wikipedia.org/wiki/List\_of\_preprint\_repositories](https://en.wikipedia.org/wiki/List_of_preprint_repositories)  
-* [https://www.wikidata.org/wiki/Wikidata:SPARQL\_query\_service/A\_gentle\_introduction\_to\_the\_Wikidata\_Query\_Service](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/A_gentle_introduction_to_the_Wikidata_Query_Service)  
-* [https://citation.crosscite.org/](https://citation.crosscite.org/)
+## Links
 
+- [DOI Citation Formatter](https://citation.doi.org/)
+- [Doi2Bib (formatter for BibTeX)](https://www.doi2bib.org/)
+- [List of preprint repositories on Wikipedia](https://en.wikipedia.org/w/index.php?title=List_of_preprint_repositories&oldid=1273297683)
+- [Github Docs: Issuing a persistent identifier for your [Github] repository with Zenodo](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content)
+- [A gentle introduction to the Wikidata Query Service](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/A_gentle_introduction_to_the_Wikidata_Query_Service)
+
+## Reference
+
+Wattanakriengkrai, S., Chinthanet, B., Hata, H., Kula, R. G., Treude, C., Guo, J., & Matsumoto, K. (2022). GitHub repositories with links to academic papers: Public access, traceability, and evolution. Journal of Systems and Software, 183, 111117.

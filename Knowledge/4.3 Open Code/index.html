@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link rel="stylesheet" href="/libs/katex/katex.min.css">
+     
+  
+  <link rel="stylesheet" href="/css/jtd.css">
+<link rel="icon" href="/assets/favicon.ico">
+
+<style>
+  /* #148 wrap long header */
+  .franklin-content a.header-anchor,
+  .franklin-toc li a
+   {
+    word-wrap: break-word;
+    white-space: normal;
+  }
+</style>
+
+   <title>Open Code: Notebooks \&amp;c.</title>  
+</head>
+<body>                      <!-- closed in foot.html -->
+<div class="page-wrap">   <!-- closed in foot.html -->
+  <!-- SIDE BAR -->
+  <div class="side-bar">
+    <div class="header">
+      <a href="/" class="title">
+        ORBook
+      </a>
+    </div>
+    <label for="show-menu" class="show-menu">MENU</label>
+    <input type="checkbox" id="show-menu" role="button">
+    <div class="menu" id="side-menu">
+      <ul class="menu-list">
+        <li class="menu-list-item "><a href="/" class="menu-list-link ">Home</a>
+        <li class="menu-list-item "><a href="/Infrastructure/1.1 Open Licensing/" class="menu-list-link ">Infrastructure</a>
+          <ul class="menu-list-child-list ">
+            <li class="menu-list-item "><a href="/Infrastructure/1.1 Open Licensing/" class="menu-list-link">Open Licensing</a>
+            <li class="menu-list-item "><a href="/Infrastructure/1.2 Open Platforms/" class="menu-list-link">Open Platforms</a>
+            <li class="menu-list-item "><a href="/Infrastructure/1.3 Interoperability/" class="menu-list-link">Interoperability</a>
+            <li class="menu-list-item "><a href="/Infrastructure/1.4 Repositories and Persistent Research Identifiers/" class="menu-list-link">Repositories and Persistent Research Identifiers</a>
+          </ul>
+        <li class="menu-list-item "><a href="/Methods/2.1 Citizen Science and Crowdsourcing/" class="menu-list-link ">Methods</a>
+          <ul class="menu-list-child-list ">
+            <li class="menu-list-item "><a href="/Methods/2.1 Citizen Science and Crowdsourcing/" class="menu-list-link">Citizen Science and Crowdsourcing</a>
+            <li class="menu-list-item "><a href="/Methods/2.2 Participatory Research/" class="menu-list-link">Participatory Research</a>
+            <li class="menu-list-item "><a href="/Methods/2.3 Open peer review/" class="menu-list-link">Open peer review</a>
+            <li class="menu-list-item "><a href="/Methods/2.4 Open Protocols/" class="menu-list-link">Open Protocols</a>
+          </ul>
+        <li class="menu-list-item "><a href="/Communities/3.2 Research Diversity/" class="menu-list-link ">Communities</a>
+          <ul class="menu-list-child-list ">
+             <li class="menu-list-item "><a href="/Communities/3.2 Research Diversity/" class="menu-list-link">Research Diversity</a>
+            <li class="menu-list-item "><a href="/Communities/3.5 Open Communities/" class="menu-list-link">Open Communities</a>
+          </ul>
+        <li class="menu-list-item active"><a href="/Knowledge/4.1 Open Educational Resources/" class="menu-list-link ">Knowledge</a>
+          <ul class="menu-list-child-list ">
+            <li class="menu-list-item "><a href="/Knowledge/4.1 Open Educational Resources/" class="menu-list-link">Open Educational Resources</a>
+            <li class="menu-list-item "><a href="/Knowledge/4.2 Open Software/" class="menu-list-link">Open Software</a>
+            <li class="menu-list-item "><a href="/Knowledge/4.3 Open Code/" class="menu-list-link">Open Code</a>
+            <li class="menu-list-item "><a href="/Knowledge/4.4 Open Data/" class="menu-list-link">Open Data</a>
+            <li class="menu-list-item "><a href="/Knowledge/4.5 Open Publications and Transformative Publishing Agreements/" class="menu-list-link">Open Publications and Transformative Publishing Agreements</a>
+          </ul>
+      </ul>
+    </div>
+    <div class="footer">
+      Contact: <a href="mailto:jcorneli@brookes.ac.uk">Joe Corneli</a>
+    </div>
+  </div>
+  <!-- CONTENT -->
+  <div class="main-content-wrap"> <!-- closed in foot.html -->
+    <div class="main-content">    <!-- closed in foot.html -->
+      <div class="main-header">
+        <a id="github" href="https://www.ukrn.org/open-research-programme/">Open Research Programme</a>
+      </div>
+
+
+
+<!-- Content appended here (in class franklin-content) -->
+<div class="franklin-content"><h1 id="open_code_notebooks_c"><a href="#open_code_notebooks_c" class="header-anchor">Open Code: Notebooks \&amp;c.</a></h1>
+<p> Welcome to this short talk on “open code”.  This talk looks at research in which computational thinking is particularly relevant, and considers how ‘openness’ can make this kind of work more effective.  We’ll look at some more practical points related to sharing open code via mechanisms like “open notebooks”.  The talk concludes with some further reflections on research replicability, and how fields that use code can learn from fields that don’t, and vice versa.</p>
+<p> Many researchers who would not describe themselves as software developers use “code” in their work.  Often this takes the form of data analysis scripts written in general purpose languages, like R and Python.  Research communities are increasingly pushing for such code to be shared openly.  For example,</p>
+<p>“Even before the introduction of the code policy in 2021, PLOS Computational Biology authors voluntarily shared code at a high rate &#40;61&#37; in 2020&#41;.”   <a href="https://theplosblog.plos.org/2022/05/uphold-the-code/">https://theplosblog.plos.org/2022/05/uphold-the-code/</a> </p>
+<p>This short talk will briefly describe the relationship between open research and computational data analysis.   <a href="https://plos.org/open-science/open-code/">PLoS</a> defines “open code” as follows: “Open Code refers to custom, author-generated code used in a scientific research study—often during data collection, interpretation or analysis—and subsequently made publicly available under a </p>
+\[suitable\]
+<p><strong>license</strong> via a linked repository, or as Supporting Information.”</p>
+<p>Assuming you publish your article under open access terms, the associated open code may or may not be published under the same license.  An open source software licence — rather than a Creative Commons licence — is typically <a href="https://journals.plos.org/plosone/s/materials-software-and-code-sharing#loc-sharing-code">recommended</a>.  Some journals like <a href="https://www.elementalmicroscopy.com/">Elemental Microscopy</a> are now publishing peer reviewed “computational articles”, which use a notebook interface to include ‘open code’ in the body of the article.  &#40;Naturally, you can also publish ‘open code’ without publishing a journal article.&#41;</p>
+
+<h3 id="computational_epistemologies"><a href="#computational_epistemologies" class="header-anchor"><strong>Computational epistemologies</strong></a></h3>
+<p>Before diving into the practicalities of sharing code as an open research practice, it is worth saying a few words about how current computational research tends to work.  The basic narrative is that data analysis is carried out to convert raw data into “information” on the way to becoming “knowledge”.  It’s worth remembering, though, that the reason that some particular data were collected or selected &#40;i.e., and not others&#41; almost certainly reflects certain biases.  These background considerations may be much harder to inspect and reason about than the data analysis code itself&#33;   In short, being computational in nature doesn’t make a research project “better” than a project that isn’t computation — but shared code can, because of its computational nature, contribute to certain aspects of replicability.</p>
+
+<h3 id="broader_openness_makes_open_code_even_better"><a href="#broader_openness_makes_open_code_even_better" class="header-anchor"><strong>Broader openness makes open code even better</strong></a></h3>
+<p>From an open research perspective, open code ideally comes with the raw data, and includes any data cleaning and processing code, in addition to the analysis routines and the cleaned-up data.  Documenting choices at this level supports a healthy and robust discourse about the research finding.  Further contextualisation concerning data selection, and the interpretation of findings, as well as guidance for people who would like to build on the work can improve robustness, replicability, and impact.</p>
+<h3 id="notebook_science_as_an_example"><a href="#notebook_science_as_an_example" class="header-anchor"><strong>Notebook science as an example</strong></a></h3>
+<p>Notebook environments are a form of so-called “literate programming” that can make it easy for people to interact with open code. Notebooks generally contain a mixture of code, examples, results, and interpretations which make them great for learning. “Jupyter Notebooks” are one particularly popular format.  There are other notebook environments out there that work with a further variety of languages and computational backends. &#40;Some platforms, like Nextjournal allow you to mix languages within one notebook.&#41; Online hosting is available from various providers, which means that you don’t have to install any software locally to develop your own <a href="https://www.dataschool.io/cloud-services-for-jupyter-notebook/">notebook</a> or to run someone else’s, which can be an easy way to get started.  Github, for example, can be used <a href="https://reproducible-science-curriculum.github.io/sharing-RR-Jupyter/01-sharing-github/">to share and collaborate on notebooks</a>.</p>
+
+<h3 id="new_directions_in_open_code"><a href="#new_directions_in_open_code" class="header-anchor"><strong>New directions in open code</strong></a></h3>
+<p>When used well, computational notebooks <a href="https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giad113/7516267">can</a> help support reproducibility.  However, they don’t have FAIR principles built in; accordingly, attention has been given to aligning notebooks with the FAIR principles &#40;“Can <a href="https://fair-workflows.github.io/project.html">workflows</a> in notebooks be made FAIR?”&#41;.  “<a href="https://github.com/Sheeba-Samuel/ProvBook">Provbook</a>” and “<a href="https://onlinelibrary.wiley.com/doi/10.1111/cgf.15092?af&#61;R">Persist</a>” are two mechanisms for tracking interactions with notebooks in computational terms, and which help document the transformation of raw data to controlled data.   The <a href="https://jupyter-kernel-gateway.readthedocs.io/en/latest/">Jupyter Kernel Gateway</a> can be used to support strictly computational interaction with a notebook, allowing it to be used as a web service.  It’s also worth mentioning that Jupyter has a <a href="https://datasciencenotebook.org/jupyter-realtime-collaboration">collaborative editing</a> mode that you can use to co-develop code in real time as part of a team.  &#40;All of these features may require some setup, but they show the direction that the tools are heading in.&#41;</p>
+
+<h3 id="reproducible_code_analogues_and_extensions"><a href="#reproducible_code_analogues_and_extensions" class="header-anchor"><strong>Reproducible code, analogues, and extensions</strong></a></h3>
+<p>If you want to build open code that others can use, it may be worth reviewing relevant guidance on writing <a href="https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giad113/7516267"><strong>reproducible</strong></a> <strong>code</strong>, <a href="https://www.britishecologicalsociety.org/wp-content/uploads/2019/06/BES-Guide-Reproducible-Code-2019.pdf">available</a>, for instance, from the British Ecology Society.  In some fields of research, reproducibility isn’t necessarily the most relevant criterion &#40;even when software is being used&#41;.  Matthew Hanchard has recommended that qualitative researchers adopt a practice centred on <a href="https://www.sheffield.ac.uk/ihuman/our-work/human-futures/fostering-cultures-open-qualitative-research"><strong>re-renderability</strong></a>, which refers to a way of working that makes it transparent to readers how and why the authors have rendered their interpretations, and that allows new researchers to ‘re-render’ the data to make sense of it in their own way. </p>
+<p>If working with code isn’t your cup of tea, you may still gain some inspiration from reflecting on the role that code plays, and using this to inspire your own open research practice.. </p>
+<p>“Some qualitative papers include full coding structures and detailed quotes &#40;e.g. as supplemental files&#41;, allowing the reader a similar level of insight to the researchers’ workings as the sharing of quantitative statistical analysis code.” — <a href="https://doi-org.oxfordbrookes.idm.oclc.org/10.1177/13591053241237620">10.1177/13591053241237620</a></p>
+<h3 id="putting_it_all_together"><a href="#putting_it_all_together" class="header-anchor"><strong>Putting it all together</strong></a></h3>
+<p>Best “open code” practice will combine aspects of both code sharing and insight into the qualitative aspects of the code and a lot more.  In the short paper:</p>
+<p>“Open Code is not enough: Towards a replicable future for geographic data science”</p>
+<p>… Levi Wolf and co-authors outline several further points that can contribute to the replicability of coding projects. Here are some take-home points from the article that, if widely taken up, would help build a robust open code ecosystem.</p>
+<p>1. Use a “developer contract” to provide consistency across aligned &#40;but separate&#41; projects.   2. Institute active, robust scientific code review for papers, programs, and pedagogical   material.   3. Create easy, effective, and open technical spaces for contributors to write and maintain   documentation for fellow developers.   4. Build space, tools, and practices to help junior developers get invested and involved.   5. Develop mentoring so interested users can eventually become developers themselves.   6. Ensure each problem is solved exactly one time.   7. Provide simple, effective, and usable documentation for external scientific users.</p>
+<p>— <a href="https://osf.io/preprints/socarxiv/3hbnt">https://osf.io/preprints/socarxiv/3hbnt</a> </p>
+<h3 id="closing_note"><a href="#closing_note" class="header-anchor"><strong>Closing note</strong></a></h3>
+<div class="note"><div class="title">⚠ Practice Example</div>
+<div class="content">At Brookes, if you want to try these tools, in addition to using hosted software &#40;like Google Colab&#41;, you can use Jupyter notebooks on your computer after installing Anaconda with AppsAnyware.  Recordings of tutorials developed in the 2024 Data Challenge hosted by the AIDA network are also available.</div></div>
+<p> Lamb D, Russell A, Morant N, Stevenson F. The challenges of open data sharing for qualitative researchers. <em>Journal of Health Psychology</em>. 2024;29&#40;7&#41;:659-664. doi:<a href="https://doi-org.oxfordbrookes.idm.oclc.org/10.1177/13591053241237620">10.1177/13591053241237620</a>  </p>
+<div class="page-foot">
+    <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> Joe Corneli. Last modified: January 14, 2025.
+    Website built with <a href="https://github.com/tlienart/Franklin.jl">Franklin.jl</a> and the <a href="https://julialang.org">Julia programming language</a>.
+</div>
+</div><!-- CONTENT ENDS HERE -->
+    </div> <!-- end of class main-content -->
+    </div> <!-- end of class main-content-wrap -->
+    </div> <!-- end of class page-wrap-->
+    
+      <script src="/libs/katex/katex.min.js"></script>
+<script src="/libs/katex/contrib/auto-render.min.js"></script>
+<script>renderMathInElement(document.body)</script>
+
+    
+    
+  </body>
+</html>

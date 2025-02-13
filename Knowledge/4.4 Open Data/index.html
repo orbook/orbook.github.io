@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  
+  <link rel="stylesheet" href="/css/jtd.css">
+<link rel="icon" href="/assets/favicon.ico">
+
+<style>
+  /* #148 wrap long header */
+  .franklin-content a.header-anchor,
+  .franklin-toc li a
+   {
+    word-wrap: break-word;
+    white-space: normal;
+  }
+</style>
+
+   <title>Open Data</title>  
+</head>
+<body>                      <!-- closed in foot.html -->
+<div class="page-wrap">   <!-- closed in foot.html -->
+  <!-- SIDE BAR -->
+  <div class="side-bar">
+    <div class="header">
+      <a href="/" class="title">
+        ORBook
+      </a>
+    </div>
+    <label for="show-menu" class="show-menu">MENU</label>
+    <input type="checkbox" id="show-menu" role="button">
+    <div class="menu" id="side-menu">
+      <ul class="menu-list">
+        <li class="menu-list-item "><a href="/" class="menu-list-link ">Home</a>
+        <li class="menu-list-item "><a href="/Infrastructure/1.1 Open Licensing/" class="menu-list-link ">Infrastructure</a>
+          <ul class="menu-list-child-list ">
+            <li class="menu-list-item "><a href="/Infrastructure/1.1 Open Licensing/" class="menu-list-link">Open Licensing</a>
+            <li class="menu-list-item "><a href="/Infrastructure/1.2 Open Platforms/" class="menu-list-link">Open Platforms</a>
+            <li class="menu-list-item "><a href="/Infrastructure/1.3 Interoperability/" class="menu-list-link">Interoperability</a>
+            <li class="menu-list-item "><a href="/Infrastructure/1.4 Repositories and Persistent Research Identifiers/" class="menu-list-link">Repositories and Persistent Research Identifiers</a>
+          </ul>
+        <li class="menu-list-item "><a href="/Methods/2.1 Citizen Science and Crowdsourcing/" class="menu-list-link ">Methods</a>
+          <ul class="menu-list-child-list ">
+            <li class="menu-list-item "><a href="/Methods/2.1 Citizen Science and Crowdsourcing/" class="menu-list-link">Citizen Science and Crowdsourcing</a>
+            <li class="menu-list-item "><a href="/Methods/2.2 Participatory Research/" class="menu-list-link">Participatory Research</a>
+            <li class="menu-list-item "><a href="/Methods/2.3 Open peer review/" class="menu-list-link">Open peer review</a>
+            <li class="menu-list-item "><a href="/Methods/2.4 Open Protocols/" class="menu-list-link">Open Protocols</a>
+          </ul>
+        <li class="menu-list-item "><a href="/Communities/3.2 Research Diversity/" class="menu-list-link ">Communities</a>
+          <ul class="menu-list-child-list ">
+             <li class="menu-list-item "><a href="/Communities/3.2 Research Diversity/" class="menu-list-link">Research Diversity</a>
+            <li class="menu-list-item "><a href="/Communities/3.5 Open Communities/" class="menu-list-link">Open Communities</a>
+          </ul>
+        <li class="menu-list-item active"><a href="/Knowledge/4.1 Open Educational Resources/" class="menu-list-link ">Knowledge</a>
+          <ul class="menu-list-child-list ">
+            <li class="menu-list-item "><a href="/Knowledge/4.1 Open Educational Resources/" class="menu-list-link">Open Educational Resources</a>
+            <li class="menu-list-item "><a href="/Knowledge/4.2 Open Software/" class="menu-list-link">Open Software</a>
+            <li class="menu-list-item "><a href="/Knowledge/4.3 Open Code/" class="menu-list-link">Open Code</a>
+            <li class="menu-list-item "><a href="/Knowledge/4.4 Open Data/" class="menu-list-link">Open Data</a>
+            <li class="menu-list-item "><a href="/Knowledge/4.5 Open Publications and Transformative Publishing Agreements/" class="menu-list-link">Open Publications and Transformative Publishing Agreements</a>
+          </ul>
+      </ul>
+    </div>
+    <div class="footer">
+      Contact: <a href="mailto:jcorneli@brookes.ac.uk">Joe Corneli</a>
+    </div>
+  </div>
+  <!-- CONTENT -->
+  <div class="main-content-wrap"> <!-- closed in foot.html -->
+    <div class="main-content">    <!-- closed in foot.html -->
+      <div class="main-header">
+        <a id="github" href="https://www.ukrn.org/open-research-programme/">Open Research Programme</a>
+      </div>
+
+
+
+<!-- Content appended here (in class franklin-content) -->
+<div class="franklin-content"><h1 id="open_data"><a href="#open_data" class="header-anchor">Open Data</a></h1>
+<p> Welcome to this talk on open data.  The talk covers the benefits of open data, the circumstances under which open data isn’t appropriate, and the relationship between open data and “web scraping”.  We will touch on both the history of open data, and current work that is helping to build the future of open data.  The talk concludes with some practical pointers about how to get your hands on relevant open data for use in secondary analysis, how to prepare new data sets for deposit, and some reflections about what kinds of re-use different data formats support.</p>
+<p> ‘Open data’ describes data sets which are freely available to anyone to use and republish as they wish, without restrictions.  Typically this implies that the data that is available over a computer connection — though you could potentially find legally-unencumbered data in out-of-copyright books and other historical records.  Open Data is one of the key tenets of Open Research, though, as of now, it has not had uniform uptake: <a href="https://www.nature.com/articles/s41597-021-00981-0">depending on the discipline</a>, the rate at which data is available to support publications can range from 9&#37; to 76&#37;.  Furthermore, in comparison with the development of open licences for publications, the development of legal mechanisms for sharing data has been slower, partly because the rights that are attached to research data are typically not a simple ‘copyright’.  Funders also have differing requirements.  Agencies that disperse <strong>public</strong> funds are more likely to require research data produced as part of a funded project to be made publicly available by default, with exceptions for valid privacy, confidentiality, or security reasons.  Additionally, funders provide different levels of support for open data practices &#40;Oxford University have published a useful <a href="https://researchdata.ox.ac.uk/funder-requirements">guide</a>&#41;.  </p>
+
+<h3 id="why_open_data"><a href="#why_open_data" class="header-anchor"><strong>Why open data?</strong></a></h3>
+<p>The Royal Society <a href="https://royalsociety.org/journals/authors/early-career-researchers/learn-more-about-publishing-your-manuscript/open-data-requirements/">outlines</a> these rationale for archiving data under terms that allow reuse.</p>
+<ul>
+<li><p>Firstly, it preserves your research contributions &#40;after all: data that isn’t archived in a sensible way can quickly be lost; duplication of the archive is a further strategy to avoid data loss&#41;.  </p>
+</li>
+<li><p>It allows others to build on your work  </p>
+</li>
+<li><p>It allows interested readers to replicate and/or verify the results of a study  </p>
+</li>
+<li><p>It can increase citation levels &#40;this point is borne out in a 2020 article <a href="https://journals.plos.org/plosone/article?id&#61;10.1371/journal.pone.0230416">published in PLOS ONE</a>&#41;</p>
+</li>
+</ul>
+<h3 id="when_is_open_data_not_a_great_idea"><a href="#when_is_open_data_not_a_great_idea" class="header-anchor"><strong>When is open data not a great idea?</strong></a></h3>
+<p>Without being exhaustive, valid reasons for <em>not</em> making data open can include any or all of the following: the data may include personal information; informed consent for data sharing hasn’t been secured; and possible uses of data may not benefit the people the data describes.  To underscore this: just because you have gathered a data set does not necessarily mean you have the right to share it: the rights may be distributed across and among various institutions, data producers, and private citizens.</p>
+<h3 id="why_not_just_scrape_data_thats_publicly_available_on_the_web"><a href="#why_not_just_scrape_data_thats_publicly_available_on_the_web" class="header-anchor"><strong>Why not just ‘scrape’ data that’s publicly available on the web?</strong></a></h3>
+<p>In the United Kingdom, ***web scraping &#40;i.e., programmatically gathering data from public web pages&#41; is legal*** as long as it is done in a way that does not violate any other specific laws.  In particular, this means that you’ll need to comply with any Terms of Service that you’ve agreed to, obtain consent from individuals whose information you’re gathering, and respect intellectual property rights.  It is worth emphasising that under the terms of the GDPR, publicly available data is still personal data and cannot be repurposed without the knowledge of the person to whom that data belongs.  If you can scrape data in a way that complies with all of these requirements, that <em>doesn’t</em> necessarily mean that you can &#40;re-&#41;publish the collected data set as open data.  Your rights to publish material as ‘open data’ typically depend on licence information that has been published on the source site, or on explicit permission from the rightsholder in some other form.  By contrast, a publicly available open data set should have cleared all of these hurdles already, but it behoves you to do at least some due diligence to be perfectly clear on permissions in any case.</p>
+
+<h3 id="history_of_open_data"><a href="#history_of_open_data" class="header-anchor"><strong>History of Open Data</strong></a></h3>
+<p>An early conception of “open data” was referred to in the 1970s, with reference to international partners working on satellite operations, who would share information with NASA.  In 1995, a National Academy of Sciences report ”On the Full and Open Exchange of Scientific Data” expanded the purview of the term: alluding to the need for sharing data about various global phenomena that cross national boundaries, including astronomical data, marine data, aviation data, climatological data, satellite data, and various models that work with such data.  Open data may be needed alongside open source software to make computational research sharable and scalable.</p>
+<p>In the mid-’00s, <strong>open government data</strong> increasingly took off, through policy developments such as the “Memorandum on Transparency and Open Government” — signed by President Obama on his first day in office — followed soon thereafter by “Putting the Frontline First: Smarter Government”, in the UK.  Nevertheless, looking internationally, analysis on <a href="http://opendatabarometer.org">opendatabarometer.org</a> shows that only 7&#37; of key government data sets — such as land registries or government budgets — are actually “open”.</p>
+<h3 id="the_future_of_open_data"><a href="#the_future_of_open_data" class="header-anchor"><strong>The Future of Open Data</strong></a></h3>
+<p>In their book on the Future of Open Data, Pamela Robinson and Lisa Ward Mather highlight that <strong>Publishing data often fails to achieve meaningful “awareness” or insight because making sense of data is not easy.</strong>  Universities may be especially well placed to address this gap, thanks in part to the diversity of perspectives that go into university research &#40;see the video on “Research Diversity”&#41;.  Writing <a href="https://www.govtech.com/data/6-ideas-to-help-government-realize-open-datas-transformative-power.html">on Govtech.com</a>, Colin Worth argues that </p>
+<p>“Governments aren’t gaining the benefits of open data today because there’s not been a rigorous effort to integrate the concept of openness into public-sector work.”</p>
+<p>Varied uptake of data sharing across academic disciplines suggests that there may be similar potential for value-gain in the research sector as well.</p>
+
+<h3 id="rather_than_producing_open_data_start_by_using_some"><a href="#rather_than_producing_open_data_start_by_using_some" class="header-anchor"><strong>Rather than producing open data, start by using some</strong></a></h3>
+<p>The simplest suggestion for people new to open data would be to look for existing open data sources that can support your research work.  </p>
+<h3 id="guidance_on_how_to_prepare_material_for_deposit"><a href="#guidance_on_how_to_prepare_material_for_deposit" class="header-anchor"><strong>Guidance on how to prepare material for deposit</strong></a></h3>
+<p>When aiming to be “as open as possible” researchers may need to give more attention to questions like “How do we ensure anonymisation is effective?” before uploading data publicly. If this applies to you, you may want to check out recent Guidance from the ICO &#40;linked below&#41;.</p>
+<h3 id="what_kind_of_open_data_depending_on_the_expected_use_more_stars_might_be_better"><a href="#what_kind_of_open_data_depending_on_the_expected_use_more_stars_might_be_better" class="header-anchor"><strong>What kind of open data? Depending on the expected use, more ‘stars’ might be better.</strong></a></h3>
+<p>A “five star” rating system for open data was proposed by Tim Berners-Lee, founder of the World Wide Web. The ratings are cumulative, with one star awarded for data that is available on the Web under an open licence &#40;or more permissive terms, such as CC0&#41;.  A second star is awarded for sharing structured data, and a third for data in a non-proprietary file format.  An openly licensed file in the widely familiar CSV format would match this description.  The fourth star is available only when meeting a somewhat more technical requirement: the data should use Uniform Resource Identifiers &#40;or URIs&#41; so that it is unambiguous.  We mentioned several different kinds of URIs in the video on “Repositories and Persistent Research Identifiers” — such as “DOIs” and “ORCiDs”, which are unique identifiers for documents and researchers, respectively.  So, for example, if you were creating an open data set of researchers, you would be able to distinguish between the various researchers who have the same name by using their ORCiDs. This brings us to the fifth star: “Linked Open Data”: for example, the records hosted on ORCiD.org link researchers both to the institutions where they work or have worked in the past, and to their publications — and all of this information is available in an unambiguous machine-readable format, both as a bulk download, and per user with a simple web command: &#40;“curl -H &quot;Accept:application/ld&#43;json&quot; -L <a href="https://orcid.org/0000-0003-1330-4698">https://orcid.org/0000-0003-1330-4698</a>”&#41;.</p>
+<p>While “five star” open data may sound like it’s always better, it’s not always available &#40;tabular data is much more common&#41;.  You’ll want to weigh the trade-offs involved when preparing a public data set.  You may find it helpful a useful <a href="https://democracy-technologies.org/ai-data/linked-open-data-berlin/">walkthrough</a> on the rationale for using Linked Open Data, published by the Open Data Informationsstelle Berlin &#40;ODIS&#41;, linked below.</p>
+<h3 id="next_steps"><a href="#next_steps" class="header-anchor"><strong>Next steps</strong></a></h3>
+<div class="note"><div class="title">⚠ Practice Example</div>
+<div class="content">Here at Brookes, Nina Lewin, our Research Data Manager, can help with many aspects of research data, ranging from finding useful secondary data sources to creating data management plans.</div></div>
+<p> <a href="https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/ico-call-for-views-anonymisation-pseudonymisation-and-privacy-enhancing-technologies-guidance/">https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/ico-call-for-views-anonymisation-pseudonymisation-and-privacy-enhancing-technologies-guidance/</a> </p>
+<div class="page-foot">
+    <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> Joe Corneli. Last modified: January 14, 2025.
+    Website built with <a href="https://github.com/tlienart/Franklin.jl">Franklin.jl</a> and the <a href="https://julialang.org">Julia programming language</a>.
+</div>
+</div><!-- CONTENT ENDS HERE -->
+    </div> <!-- end of class main-content -->
+    </div> <!-- end of class main-content-wrap -->
+    </div> <!-- end of class page-wrap-->
+    
+    
+  </body>
+</html>

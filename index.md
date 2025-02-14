@@ -1,7 +1,7 @@
 @def title = "Intro to Open"
 @def tags = ["syntax", "code"]
 
-# Introduction to the Open Research Book!!!
+# Introduction to the Open Research Book
 
 \tableofcontents <!-- you can use \toc as well -->
 
@@ -26,8 +26,12 @@ We followed the high-level outline breaking the sections down into **open**
 
 ## Quick tour
 
-Have a look around via the menu at left.  You’ll notice that most of the talks include some Oxford Brookes specific pointers towards the end.  These are flagged in a box as “⚠ Practice Example”.  Other related practices may be in place at other institutions.
+@@example
+~~~
+Have a look around via the menu at left.  You’ll notice that most of the talks include some Oxford Brookes specific pointers towards the end.  These are highlighted in boxes, and labelled “<span style="color:blue;">⚠ Practice Example</span>”.  Other related practices may be in place at other institutions.
+~~~
+@@
 
 
-Last modified: {{ fill fd_mtime }}.
+
 

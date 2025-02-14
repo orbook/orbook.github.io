@@ -44,7 +44,9 @@ Along with the various benefits touched on earlier, crowdsourcing and citizen sc
 
 ### **Citizen science as a route to engagement**
 
-On that note, if it employs a solid design, citizen science can work well as a route to “public engagement”; often more so than crowdsourcing.  As mentioned earlier, you may choose to include both technical training and more wide reaching activities to help participants develop scientific literacy. If you’re thinking about how to incorporate citizen science into your research, or wondering whether another form of engagement would be better for the aims you have in mind, it is worth having a look at the relevant research support pages, and getting in touch with the Public Engagement team (`publicengagement@brookes.ac.uk`).
+On that note, if it employs a solid design, citizen science can work well as a route to “public engagement”; often more so than crowdsourcing.  As mentioned earlier, you may choose to include both technical training and more wide reaching activities to help participants develop scientific literacy.
+
+\note{If you’re thinking about how to incorporate citizen science into your research, or wondering whether another form of engagement would be better for the aims you have in mind, it is worth having a look at the relevant [research support pages](https://www.brookes.ac.uk/engage-and-innovate/public-community-engagement), and getting in touch with the Public Engagement team (`publicengagement@brookes.ac.uk`).}
 
 [//]: ##**Further Reading & Useful Links**
 

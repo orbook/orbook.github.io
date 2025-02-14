@@ -11,7 +11,7 @@ Many researchers who would not describe themselves as software developers use �
 “Even before the introduction of the code policy in 2021, PLOS Computational Biology authors voluntarily shared code at a high rate (61% in 2020).”  
 [https://theplosblog.plos.org/2022/05/uphold-the-code/](https://theplosblog.plos.org/2022/05/uphold-the-code/) 
 
-This short talk will briefly describe the relationship between open research and computational data analysis.   [PLoS](https://plos.org/open-science/open-code/) defines “open code” as follows: “Open Code refers to custom, author-generated code used in a scientific research study—often during data collection, interpretation or analysis—and subsequently made publicly available under a \[suitable\] **license** via a linked repository, or as Supporting Information.”
+This short talk will briefly describe the relationship between open research and computational data analysis.   [PLoS](https://plos.org/open-science/open-code/) defines “open code” as follows: “Open Code refers to custom, author-generated code used in a scientific research study—often during data collection, interpretation or analysis—and subsequently made publicly available under a [suitable] **license** via a linked repository, or as Supporting Information.”
 
 Assuming you publish your article under open access terms, the associated open code may or may not be published under the same license.  An open source software licence — rather than a Creative Commons licence — is typically [recommended](https://journals.plos.org/plosone/s/materials-software-and-code-sharing#loc-sharing-code).  Some journals like [Elemental Microscopy](https://www.elementalmicroscopy.com/) are now publishing peer reviewed “computational articles”, which use a notebook interface to include ‘open code’ in the body of the article.  (Naturally, you can also publish ‘open code’ without publishing a journal article.)
 
@@ -71,6 +71,6 @@ documentation for fellow developers.
 
 \note{At Brookes, if you want to try these tools, in addition to using hosted software (like Google Colab), you can use Jupyter notebooks on your computer after installing Anaconda with AppsAnyware.  Recordings of tutorials developed in the 2024 Data Challenge hosted by the AIDA network are also available.}
 
-[//]: ##*Reference*
+## Reference
 
 Lamb D, Russell A, Morant N, Stevenson F. The challenges of open data sharing for qualitative researchers. *Journal of Health Psychology*. 2024;29(7):659-664. doi:[10.1177/13591053241237620](https://doi-org.oxfordbrookes.idm.oclc.org/10.1177/13591053241237620)  

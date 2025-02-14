@@ -71,4 +71,4 @@ Ginther, D. K., Basner, J., Jensen, U., Schnell, J., Kington, R., & Schaffer, W.
 
 Huang, C.-K., Neylon, C., Montgomery, L., Hosking, R., Diprose, J. P., Handcock, R. N., & Wilson, K. (2024). Open access research outputs receive more diverse citations. In Scientometrics (Vol. 129, Issue 2, pp. 825–845). Springer Science and Business Media LLC. [https://doi.org/10.1007/s11192-023-04894-0](https://doi.org/10.1007/s11192-023-04894-0)
 
-Anthony J. Olejniczak, Molly J. Wilson. (2020). Who’s writing open access (OA) articles? Characteristics of OA authors at Ph.D.-granting institutions in the United States. Quantitative Science Studies. 1 (4): 1429–1450. doi: [https://doi.org/10.1162/qss_a_00091](https://doi.org/10.1162/qss_a_00091)
+Anthony J. Olejniczak, Molly J. Wilson. (2020). Who’s writing open access (OA) articles? Characteristics of OA authors at Ph.D.-granting institutions in the United States. Quantitative Science Studies. 1 (4): 1429–1450. doi: [https://doi.org/10.1162/qss\_a\_00091](https://doi.org/10.1162/qss_a_00091)

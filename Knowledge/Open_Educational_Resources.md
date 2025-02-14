@@ -52,6 +52,8 @@ In closing, let’s return again to this video series as an example of an open-r
 
 [//]: ##*Links*
 
-Egan S, Tobin M, Palmer B *et al.* Developing an open educational resource for open research: Protocol for the PaPOR TRAIL project \[version 1; peer review: 2 approved\]. *HRB Open Res* 2020, **3**:84 ([https://doi.org/10.12688/hrbopenres.13171.1](https://doi.org/10.12688/hrbopenres.13171.1)) 
+## References
+
+Egan S, Tobin M, Palmer B *et al.* Developing an open educational resource for open research: Protocol for the PaPOR TRAIL project [version 1; peer review: 2 approved]. *HRB Open Res* 2020, **3**:84 ([https://doi.org/10.12688/hrbopenres.13171.1](https://doi.org/10.12688/hrbopenres.13171.1)) 
 
 Farrow, R. (ed.), et al. (2023). *The GO-GN Open Research Handbook*. Global OER Graduate Network / Open Education Research Hub. [https://go-gn.net/gogn\_outputs/open-research-handbook/](https://go-gn.net/gogn_outputs/open-research-handbook/)

@@ -6,7 +6,7 @@ Welcome to this talk on open data.  The talk covers the benefits of open data, t
 
 [//]: ##*Introduction*
 
-‘Open data’ describes data sets which are freely available to anyone to use and republish as they wish, without restrictions.  Typically this implies that the data that is available over a computer connection — though you could potentially find legally-unencumbered data in out-of-copyright books and other historical records.  Open Data is one of the key tenets of Open Research, though, as of now, it has not had uniform uptake: [depending on the discipline](https://www.nature.com/articles/s41597-021-00981-0), the rate at which data is available to support publications can range from 9% to 76%.  Furthermore, in comparison with the development of open licences for publications, the development of legal mechanisms for sharing data has been slower, partly because the rights that are attached to research data are typically not a simple ‘copyright’.  Funders also have differing requirements.  Agencies that disperse **public** funds are more likely to require research data produced as part of a funded project to be made publicly available by default, with exceptions for valid privacy, confidentiality, or security reasons.  Additionally, funders provide different levels of support for open data practices (Oxford University have published a useful [guide](https://researchdata.ox.ac.uk/funder-requirements)).  
+‘Open data’ describes data sets which are freely available to anyone to use and republish as they wish, without restrictions.  Typically this implies that the data that is available over a computer connection — though you could potentially find legally-unencumbered data in out-of-copyright books and other historical records.  Open Data is one of the key tenets of Open Research, though, as of now, it has not had uniform uptake: [depending on the discipline](https://www.nature.com/articles/s41597-021-00981-0), the rate at which data is available to support publications can range from 9% to 76%.  Furthermore, in comparison with the development of open licences for publications, the development of legal mechanisms for sharing data has been slower, partly because the rights that are attached to research data are typically not a simple ‘copyright’.  Funders also have differing requirements.  Agencies that disperse **public** funds are more likely to require research data produced as part of a funded project to be made publicly available by default, with exceptions for valid privacy, confidentiality, or security reasons.  Additionally, funders provide different levels of support for open data practices (Oxford University have published a useful [guide](https://researchdata.ox.ac.uk/funder-requirements)).
 
 [//]: ##*Flow*
 
@@ -14,9 +14,9 @@ Welcome to this talk on open data.  The talk covers the benefits of open data, t
 
 The Royal Society [outlines](https://royalsociety.org/journals/authors/early-career-researchers/learn-more-about-publishing-your-manuscript/open-data-requirements/) these rationale for archiving data under terms that allow reuse.
 
-* Firstly, it preserves your research contributions (after all: data that isn’t archived in a sensible way can quickly be lost; duplication of the archive is a further strategy to avoid data loss).  
-* It allows others to build on your work  
-* It allows interested readers to replicate and/or verify the results of a study  
+* Firstly, it preserves your research contributions (after all: data that isn’t archived in a sensible way can quickly be lost; duplication of the archive is a further strategy to avoid data loss).
+* It allows others to build on your work
+* It allows interested readers to replicate and/or verify the results of a study
 * It can increase citation levels (this point is borne out in a 2020 article [published in PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230416))
 
 ### **When is open data not a great idea?**
@@ -37,7 +37,7 @@ In the mid-’00s, **open government data** increasingly took off, through polic
 
 ### **The Future of Open Data**
 
-In their book on the Future of Open Data, Pamela Robinson and Lisa Ward Mather highlight that **Publishing data often fails to achieve meaningful “awareness” or insight because making sense of data is not easy.**  Universities may be especially well placed to address this gap, thanks in part to the diversity of perspectives that go into university research (see the video on “Research Diversity”).  Writing [on Govtech.com](https://www.govtech.com/data/6-ideas-to-help-government-realize-open-datas-transformative-power.html), Colin Worth argues that 
+In their book on the Future of Open Data, Pamela Robinson and Lisa Ward Mather highlight that **Publishing data often fails to achieve meaningful “awareness” or insight because making sense of data is not easy.**  Universities may be especially well placed to address this gap, thanks in part to the diversity of perspectives that go into university research (see the video on “Research Diversity”).  Writing [on Govtech.com](https://www.govtech.com/data/6-ideas-to-help-government-realize-open-datas-transformative-power.html), Colin Worth argues that
 
 “Governments aren’t gaining the benefits of open data today because there’s not been a rigorous effort to integrate the concept of openness into public-sector work.”
 
@@ -47,7 +47,7 @@ Varied uptake of data sharing across academic disciplines suggests that there ma
 
 ### **Rather than producing open data, start by using some**
 
-The simplest suggestion for people new to open data would be to look for existing open data sources that can support your research work.  
+The simplest suggestion for people new to open data would be to look for existing open data sources that can support your research work.
 
 ### **Guidance on how to prepare material for deposit**
 
@@ -65,4 +65,6 @@ While “five star” open data may sound like it’s always better, it’s not 
 
 [//]: ##*References to others work*
 
-[https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/ico-call-for-views-anonymisation-pseudonymisation-and-privacy-enhancing-technologies-guidance/](https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/ico-call-for-views-anonymisation-pseudonymisation-and-privacy-enhancing-technologies-guidance/) 
+## Link
+
+- [ICO call for views: Anonymisation, pseudonymisation and privacy enhancing technologies guidance](https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/ico-call-for-views-anonymisation-pseudonymisation-and-privacy-enhancing-technologies-guidance/)

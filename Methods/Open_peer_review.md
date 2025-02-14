@@ -59,6 +59,6 @@ A practical next step would be to find a journal (or another venue) in your rese
 
 ## References
 
-Pros and cons of open peer review. (1999). In Nature Neuroscience (Vol. 2, Issue 3, pp. 197–198). Springer Science and Business Media LLC. https://doi.org/10.1038/6295 
+Pros and cons of open peer review. (1999). In Nature Neuroscience (Vol. 2, Issue 3, pp. 197–198). Springer Science and Business Media LLC. [https://doi.org/10.1038/6295](https://doi.org/10.1038/6295)
 
-Smith, R. (1999). Opening up BMJ peer review. In BMJ (Vol. 318, Issue 7175, pp. 4–5). BMJ. https://doi.org/10.1136/bmj.318.7175.4  
+Smith, R. (1999). Opening up BMJ peer review. In BMJ (Vol. 318, Issue 7175, pp. 4–5). BMJ. [https://doi.org/10.1136/bmj.318.7175.4](https://doi.org/10.1136/bmj.318.7175.4)

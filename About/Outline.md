@@ -1,0 +1,154 @@
+# Outline of sections
+
+- *Infrastructure*
+  - **Open Licensing**
+    - Why are open licences relevant?
+    - What are licences, anyway?
+    - How are traditional licences used?
+    - What’s special about open licences?
+    - Open licences impose restrictions on use
+    - You can get help choosing a suitable licence\!
+    - Links
+    - References
+  - **Open Platforms: Toolboxes for Open Research**
+    - To begin: Platforms outside of research
+    - Further aspects of “openness” in open platforms
+    - Open Platforms for open research
+    - The openness of open platforms make them particularly useful for eliciting contributions
+    - Example: OSF support for a large-scale research collaboration
+    - Example: Custom platform design to create a novel research site
+    - Co-authoring and other forms of collaboration: new directions in open platforms
+    - Links
+    - References
+  - **Interoperability**
+    - What is interoperability?
+    - How does interoperability relate to open research?
+    - When is attention to interoperation needed in open research?
+    - Interoperation makes cross-setting co-working possible
+    - Choosing and designing suitable tools
+    - Interoperability can be useful even when it’s not universal
+    - Creating interoperability also doesn’t mean removing all friction
+    - Link
+    - References
+  - **Repositories and Persistent Research Identifiers**
+    - What is a repository?
+    - How are repositories related to open research?
+    - Alternatives when selecting a repository
+    - Persistent Research Identifiers
+    - Working with DOIs and persistent identifiers
+    - Links
+    - Reference
+- *Methods*
+  - **Citizen Science and Crowdsourcing**
+    - Crowdsourcing and Citizen Science are worth introducing together
+    - These are simple forms of “participatory research”
+    - Benefits: Why might you want to use crowdsourcing and citizen science methods?
+    - An early example
+    - Participant motivation
+    - A more contemporary example
+    - Risks and risk management strategies
+    - Citizen science as a route to engagement
+    - Links
+    - References
+  - **Participatory Research**
+    - Expanding what it means to “participate” in research
+    - Opening up the research process
+    - Logic of participation
+    - Benefits of participation
+    - Requirements around Responsible Research and Innovation
+    - Links
+    - References
+  - **Open peer review**
+    - What is open peer review?
+    - Advantages of open peer review
+    - Limitations of open peer review
+    - Related practices
+    - Open peer review within open research ecosystems
+    - You can try it for yourself.
+    - Links
+    - References
+  - **Open Protocols**
+    - What are open protocols?
+    - The difference between method and documentary
+    - Associated practices of pre-registration and registered reports
+    - Why do this?
+    - Working with open methods
+    - Link
+    - References
+- *Communities*
+  - **Research Diversity**
+    - What is research diversity?
+    - Why does research diversity matter?
+    - Diversity of research participants
+    - Diversity of research contributors
+    - Who is involved in open research?
+    - Open Access and research diversity implications
+    - Links
+    - References
+  - **Open Communities: Working together for research impact**
+    - Defining open communities
+    - “The societal impact of open science”
+    - ‘Intelligent openness’ and ‘public engagement’ for impact
+    - “Rural Self Help”: An anecdote from Sri Lankan activist A T Ariyaratne
+    - Communities of practice as places to build capacity
+    - Example 1: A Developing Community of Practice around open research training
+    - Example 2: Science Together
+    - Example 3: “People-driven solutions”
+    - Get good at facilitation
+    - Get involved
+    - Links to examples from the video
+    - Additional links
+    - References
+- *Knowledge*
+  - **Open Educational Resources**
+    - OERs and open reseacrh
+    - You’re looking at an example
+    - OER creation workflow
+    - So what…? Reuse and remixing
+    - Barriers and incentives for using OER
+    - Students’ perspective
+    - Co-creating and extending OERs: next steps for this project
+    - References
+  - **Open Software**
+    - What is open software?
+    - Who writes open source software?
+    - Why do people contribute to open source software?
+    - (Open) Research software
+    - How to create open research software
+    - Building contributor communities
+    - Links
+    - References
+  - **Open Code: Notebooks &c.**
+    - Computational epistemologies
+    - Broader openness makes open code even better
+    - Notebook science as an example
+    - New directions in open code
+    - Reproducible code, analogues, and extensions
+    - Putting it all together
+    - Closing note
+    - Reference
+  - **Open Data**
+    - Why open data?
+    - When is open data not a great idea?
+    - Why not just ‘scrape’ data that’s publicly available on the web?
+    - History of Open Data
+    - The Future of Open Data
+    - Rather than producing open data, start by using some
+    - Guidance on how to prepare material for deposit
+    - What kind of open data? Depending on the expected use, more ‘stars’ might be better.
+    - Next steps
+    - Link
+  - **Open Publications and Transformative Publishing Agreements**
+    - A brief reminder about preprints.
+    - Different types of Open Access publications
+    - What is the status of these different types of OA?
+    - Transformative publishing agreements
+    - What about Green OA and “Rights Retention”?
+    - If Diamond OA is so widespread, why isn’t it the norm on a per-article basis?
+    - Problems for research diversity
+    - Other problems
+    - So what should I do as a researcher?
+    - Are there any other practical things to do?
+- *About*
+  - **About this book**
+  - **Outline of sections**

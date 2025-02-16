@@ -133,16 +133,4 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
-<url>
-    <loc>https://orbook.github.io//About/About/index/</loc>
-    <lastmod>2025-02-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://orbook.github.io//About/Outline/index/</loc>
-    <lastmod>2025-02-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
 </urlset>

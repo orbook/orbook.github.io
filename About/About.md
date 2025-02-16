@@ -41,4 +41,4 @@ of Practice) have been invited to contribute to the further evolution
 of this material.  The editorial workflow will develop across Google
 Docs (by invitation), Github, and in Hypothesis comments on the
 published pages.  The hope is that the contents will grow to around
-250 pages.
+250 pages!

@@ -39,6 +39,6 @@ scripts, members of the UKRN
 [https://www.ukrn.org/ukrn-community-of-practice/](Training Community
 of Practice) have been invited to contribute to the further evolution
 of this material.  The editorial workflow will develop across Google
-Docs (by invitation), Github, and in Hypothesis comments on the
-published pages.  The hope is that the contents will grow to around
-250 pages!
+Docs (by invitation), Github, and in Hypothesis comments
+(aggregated [here](https://hypothes.is/search?q=url%3Aorbook.github.io%2F*))
+on the published pages.  The hope is that the contents will grow to around 250 pages!

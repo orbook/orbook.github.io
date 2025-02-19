@@ -357,3 +357,5 @@ code {
   color: white;
   background: cornflowerblue;
 }
+
+img[alt=ccbadge] { width: 100px; text-align: left !important;}

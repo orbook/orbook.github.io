@@ -64,6 +64,6 @@ Copyright (c) 2024-2025 University of Bristol<br><br>
 ~~~
 @@
 
-To reuse this material in your own work, include a statement such as:
+If reuse this material in your own work, you must include a statement such as the following:
 
-> This article re-uses material from the work "Open Research Book" ([https://orbook.github.io](https://orbook.github.io)) by Joseph Corneli, Robyn Curtis, Eric White, and David Bullock, which is used here under the terms of the [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/deed.en).
+> This article re-uses material from the work "Open Research Book" ([https://orbook.github.io](https://orbook.github.io)) by Joseph Corneli, Robyn Curtis, Eric White, and David Bullock, which is used here under the terms of the [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license.  If you re-use this material, you must include a similar statement in the derived work you create.

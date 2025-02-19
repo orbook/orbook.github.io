@@ -32,7 +32,7 @@ In line with the definition presented earlier, the steps to creating an OER are 
 
 Let’s briefly give some further attention to the questions “why?” and “so what?”.  A key benefit of OERs is that anyone who can access the resource has the right to re-use and remix it with any other OERs which are available under compatible licences. As remarked in guidance provided by OER Commons (which is a large repository of OERs):
 
-“\[Remixing\] is especially helpful when you would like to adapt the material to learners’ needs, localize content to make the material more accessible, or add revised data to keep your resource current and up to date while preserving the original.”
+“[Remixing] is especially helpful when you would like to adapt the material to learners’ needs, localize content to make the material more accessible, or add revised data to keep your resource current and up to date while preserving the original.”
 
 In short, OERs can help educators save time, can help everyone save a good amount of money, and increase quality and improve the learning experience in several ways.
 

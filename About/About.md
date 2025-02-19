@@ -42,3 +42,28 @@ of this material.  The editorial workflow will develop across Google
 Docs (by invitation), Github, and in Hypothesis comments
 (aggregated [here](https://hypothes.is/search?q=url%3Aorbook.github.io%2F*))
 on the published pages.  The hope is that the contents will grow to around 250 pages!
+
+## Contributing
+
+We’ve started by asking for contributions from the UKRN Training
+Community of Practice, but contributions from others are also welcome.
+Get in touch via Hypothesis, Github, or email.  When you’ve made
+contributions to the book, we’ll update the copyright and authorship
+information below accordingly.
+
+## Formal copyright and licensing statement
+
+![ccbadge](/assets/Creative-Commons-Attribution-ShareAlike-badge.webp)
+
+@@copyright
+~~~
+
+
+Copyright (c) 2024-2025 Oxford Brookes University<br>
+Copyright (c) 2024-2025 University of Bristol<br><br>
+~~~
+@@
+
+To reuse this material in your own work, include a statement such as:
+
+> This article re-uses material from the work "Open Research Book" ([https://orbook.github.io](https://orbook.github.io)) by Joseph Corneli, Robyn Curtis, Eric White, and David Bullock, which is used here under the terms of the [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/deed.en).

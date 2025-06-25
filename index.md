@@ -3,23 +3,26 @@
 
 # Introduction to the Open Research Book
 
-~~~
-<div class="franklin-toc"><ol><li><a href="#background">Background</a></li><li><a href="#quick_tour">Quick tour</a></li></ol></div>
-~~~
+\tableofcontents <!-- you can use \toc as well -->
 
 ## Background
 
 The initial contents of this web page are 15 scripts for videos that were produced at Oxford Brookes to introduce basic topics in Open Research.
 We followed an outline shared in image we first encountered care of Anton Muszanskyj.  (If you know where it came from please let us know.)
 
-~~~
-<div class="row"><div class="container"><div class="left"><img src="./assets/or-graphic-small.png" alt="OR Practices"></div></div></div>
-~~~
 
+@@row
+@@container
+@@left ![](./assets/or-graphic-small.png) @@
+@@
 We followed the high-level outline breaking the sections down into **open**
 ~~~
-<a href="/Infrastructure/Open_Licensing/">Infrastructure</a>, <a href="/Methods/Citizen_Science_and_Crowdsourcing/">Methods</a>, <a href="/Communities/Research_Diversity/">Communities</a>, and <a href="/Knowledge/Open_Educational_Resources/">Knowledge</a>.  In some cases we combined some of the topics into one script, but in general we followed the lower-level outline as well.  The hope is that this can be used as a starting point for further improvements.
+<a href="/Infrastructure/1.1 Open Licensing/">Infrastructure</a>, <a href="/Methods/2.1 Citizen Science and Crowdsourcing/">Methods</a>, <a href="/Communities/3.2 Research Diversity/">Communities</a>, and <a href="/Knowledge/4.1 Open Educational Resources/">Knowledge</a>.  In some cases we combined some of the topics into one script, but in general we followed the lower-level outline as well.  The hope is that this can be used as a starting point for further improvements.
 ~~~
+~~~
+<div style="clear: both"></div>
+~~~
+@@
 
 ## Quick tour
 

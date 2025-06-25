@@ -20,7 +20,7 @@ html {
 
 body {
   margin: 0;
-  /* position: relative; */
+  position: relative;
   padding-bottom: 4rem;
   font-family: -apple-system, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif;
   font-size: inherit;
@@ -393,7 +393,7 @@ MAIN CONTENT
   }
 
   .main-content {
-    /* position: relative; */
+    position: relative;
     max-width: 800px;
     margin-left: 248px;
   }
